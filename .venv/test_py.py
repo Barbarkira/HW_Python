@@ -1,2 +1,2 @@
 #hello_world
-balls.self
+print('Hello')
