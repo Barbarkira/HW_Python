@@ -1,2 +1,1 @@
-#hello_world
-print('Hello')
+pip --version
