@@ -7,5 +7,3 @@ digits = [5, 2, 3]
 sorted_squares_out = sorted_squares(digits)
 print(sorted_squares_out)
 
-git add C:\Users\gusev\PycharmProjects\HW Python\.venv\ex.1.py
-git commit - C:\Users\gusev\PycharmProjects\HW Python\.venv\ex.1.py
