@@ -4,5 +4,5 @@
 # Sample output: 4
 
 tpl = (1, 2, 3, 4)
-last_element = tpl[-1]
-print(last_element)
+element = tpl[-1]
+print(element)
