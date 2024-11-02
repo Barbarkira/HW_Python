@@ -1,0 +1,149 @@
+{
+    "flowers": [
+        {
+            "path": "daisy\\african_daisy_yellow.jpeg",
+            "color": "yellow.jpeg",
+            "type": "daisy"
+        },
+        {
+            "path": "daisy\\another_daisy_pink.jpeg",
+            "color": "pink.jpeg",
+            "type": "daisy"
+        },
+        {
+            "path": "daisy\\daisy_white.jpeg",
+            "color": "white.jpeg",
+            "type": "daisy"
+        },
+        {
+            "path": "daisy\\just_another_daisy_blue.jpeg",
+            "color": "blue.jpeg",
+            "type": "daisy"
+        },
+        {
+            "path": "peony\\black.jpeg",
+            "color": "black.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\flowers_white.jpeg",
+            "color": "white.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\flower_white.jpeg",
+            "color": "white.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\peony_violet.jpeg",
+            "color": "violet.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\peony_white.jpeg",
+            "color": "white.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\rose.jpeg",
+            "color": "rose.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "peony\\yellow.jpeg",
+            "color": "yellow.jpeg",
+            "type": "peony"
+        },
+        {
+            "path": "rose\\blue.jpeg",
+            "color": "blue.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\flower_orange.jpeg",
+            "color": "orange.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\flower_red.jpeg",
+            "color": "red.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\flower_violet.jpeg",
+            "color": "violet.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\pink.jpeg",
+            "color": "pink.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\red.jpeg",
+            "color": "red.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\rose_black.jpeg",
+            "color": "black.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\rose_pink.jpeg",
+            "color": "pink.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\rose_white.jpeg",
+            "color": "white.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "rose\\rose_yellow.jpeg",
+            "color": "yellow.jpeg",
+            "type": "rose"
+        },
+        {
+            "path": "tulip\\dark_dark_violet.jpeg",
+            "color": "violet.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\dark_violet.jpeg",
+            "color": "violet.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\flower_yellow.jpeg",
+            "color": "yellow.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\red.jpeg",
+            "color": "red.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\tulip_red.jpeg",
+            "color": "red.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\violet.jpeg",
+            "color": "violet.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\white.jpeg",
+            "color": "white.jpeg",
+            "type": "tulip"
+        },
+        {
+            "path": "tulip\\yellow.jpeg",
+            "color": "yellow.jpeg",
+            "type": "tulip"
+        }
+    ]
+}
