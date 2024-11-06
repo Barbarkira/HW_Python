@@ -9,4 +9,4 @@ my_string_list = StringList(1, 1.0, ["a", "b", "c"])
 
 for el in my_string_list:
     assert type(el) == str
-    print('1')
+    print('2')
