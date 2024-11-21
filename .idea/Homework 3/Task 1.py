@@ -76,20 +76,3 @@ def get_tf_idf(path: str, target_word: str, target_chapter: int) -> float:
 
 
 
-with open("class_4/hw3/class_4/hw3/war_peace.txt", "w") as f:
-  f.write("[new chapter]\n")
-  f.write("the the quick quick brown fox\n")
-  f.write("[new chapter]\n")
-  f.write("the lazy dog\n")
-  f.write("the the\n")
-
-
-print(f"Chapter frequency of 'the': {chapter_frequency('class_4/hw3/war_peace.txt', 'the')}")
-print(f"Term frequency of 'the' in chapter 0: {term_frequency('the', 0)}")
-print(f"TF-IDF of 'the' in chapter 0: {get_tf_idf('class_4/hw3/war_peace.txt', 'the', 0)}")
-print(f"TF-IDF of 'dog' in chapter 1: {get_tf_idf('class_4/hw3/war_peace.txt', 'dog', 1)}")
-
-
-os.remove("class_4/hw3/war_peace.txt")
-
-
