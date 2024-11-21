@@ -74,5 +74,5 @@ def get_tf_idf(path: str, target_word: str, target_chapter: int) -> float:
     tf_idf = tf * idf
     return tf_idf
 
-
+print
 
