@@ -83,8 +83,4 @@ def analyze_reviews(positive_dir, negative_dir):
   print("Общие слова:", common_words)
 
 
-positive_reviews_dir = "" #путь к папке с положительными отзывами
-negative_reviews_dir = "" #путь к папке с отрицательными отзывами
-
-analyze_reviews(positive_reviews_dir, negative_reviews_dir)
 
