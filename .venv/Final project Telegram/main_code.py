@@ -17,7 +17,7 @@ news_big_container ={
     'текст' : []
 }
 
-for news in list[:6]:
+for news in list:
     news.semantic_tag = analyzer.semantic_pipe(news.news_text)
     news.topic = analyzer.topic_pipe(news.news_text)
 

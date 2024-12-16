@@ -13,15 +13,15 @@
 pip install beautifulsoup4 transformers pandas matplotlib torch
 
 ## Переход в нужную директорию
-Перейдите в директорию проекта, чтобы корректно запускать скрипты:
+Перейдите в директорию проекта, чтобы корректно запускать скрипты (пример пути к папке указан ниже):
 
-cd HW_Python/.venv/Final project Telegram
+cd C:/Users/gusev/PycharmProjects/HW Python/.venv/Final project Telegram
 
 ## Запуск команд
 
-1. Генерация файла output.csv: Для анализа данных и создания файла output.csv выполните команду:
+1. Создание файла output.csv: Для анализа данных и создания файла output.csv выполните команду:
 	1. python main_code.py
-2. Создание графика. Для создания визуализации запустите:
+2. Создание графика. Для создания визуализации запустите команду:
 	1. python visualisation.py
 
 Файлы output.csv и график семантического тега.png будут созданы в директории финального проекта.
